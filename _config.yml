@@ -27,4 +27,4 @@ gems:
   - jekyll-autoprefixer
 
 # Excludes
-exclude: [node_modules, gulpfile.js]
+exclude: ["node_modules", "gulpfile.js", "package.json"]
